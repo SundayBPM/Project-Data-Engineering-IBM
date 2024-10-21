@@ -1,0 +1,69 @@
+2024-Oct-16-13:46:43 : Declaring known values
+2024-Oct-16-13:46:43 : Preliminaries complete. Initiating ETL process
+2024-Oct-16-13:46:43 : Call extract() function
+2024-Oct-16-13:46:44 : Data extraction complete. Initiating Transformation process
+2024-Oct-16-13:46:44 : Call transform() function
+2024-Oct-16-13:47:44 : Declaring known values
+2024-Oct-16-13:47:44 : Preliminaries complete. Initiating ETL process
+2024-Oct-16-13:47:44 : Call extract() function
+2024-Oct-16-13:47:45 : Data extraction complete. Initiating Transformation process
+2024-Oct-16-13:47:45 : Call transform() function
+2024-Oct-16-13:47:45 : Data transformation complete. Initiating Loading process
+2024-Oct-16-13:47:45 : Call load_to_csv()
+2024-Oct-16-13:47:45 : Data saved to CSV file
+2024-Oct-16-13:47:45 : Initiate SQLite3 connection
+2024-Oct-16-13:47:45 : SQL Connection initiated
+2024-Oct-16-13:47:45 : Call load_to_db()
+2024-Oct-16-13:47:45 : Data loaded to Database as a table, Executing queries
+2024-Oct-16-13:47:45 : Call run_query()
+2024-Oct-16-13:47:45 : Process Complete
+2024-Oct-16-13:47:45 : Close SQLite3 connection
+2024-Oct-16-13:47:45 : Server Connection closed
+2024-Oct-16-14:09:27 : Declaring known values
+2024-Oct-16-14:09:27 : Preliminaries complete. Initiating ETL process
+2024-Oct-16-14:09:27 : Call extract() function
+2024-Oct-16-14:09:29 : Data extraction complete. Initiating Transformation process
+2024-Oct-16-14:09:29 : Call transform() function
+2024-Oct-16-14:09:29 : Data transformation complete. Initiating Loading process
+2024-Oct-16-14:09:29 : Call load_to_csv()
+2024-Oct-16-14:09:29 : Data saved to CSV file
+2024-Oct-16-14:09:29 : Initiate SQLite3 connection
+2024-Oct-16-14:09:29 : SQL Connection initiated
+2024-Oct-16-14:09:29 : Call load_to_db()
+2024-Oct-16-14:09:29 : Data loaded to Database as a table, Executing queries
+2024-Oct-16-14:09:29 : Call run_query()
+2024-Oct-16-14:09:29 : Process Complete
+2024-Oct-16-14:09:29 : Close SQLite3 connection
+2024-Oct-16-14:09:29 : Server Connection closed
+2024-Oct-16-14:13:06 : Declaring known values
+2024-Oct-16-14:13:06 : Preliminaries complete. Initiating ETL process
+2024-Oct-16-14:13:06 : Call extract() function
+2024-Oct-16-14:13:07 : Data extraction complete. Initiating Transformation process
+2024-Oct-16-14:13:07 : Call transform() function
+2024-Oct-16-14:13:07 : Data transformation complete. Initiating Loading process
+2024-Oct-16-14:13:07 : Call load_to_csv()
+2024-Oct-16-14:13:07 : Data saved to CSV file
+2024-Oct-16-14:13:07 : Initiate SQLite3 connection
+2024-Oct-16-14:13:07 : SQL Connection initiated
+2024-Oct-16-14:13:07 : Call load_to_db()
+2024-Oct-16-14:13:07 : Data loaded to Database as a table, Executing queries
+2024-Oct-16-14:13:07 : Call run_query()
+2024-Oct-16-14:13:07 : Process Complete
+2024-Oct-16-14:13:07 : Close SQLite3 connection
+2024-Oct-16-14:13:07 : Server Connection closed
+2024-Oct-16-14:53:45 : Declaring known values
+2024-Oct-16-14:53:45 : Preliminaries complete. Initiating ETL process
+2024-Oct-16-14:53:45 : Call extract() function
+2024-Oct-16-14:53:47 : Data extraction complete. Initiating Transformation process
+2024-Oct-16-14:53:47 : Call transform() function
+2024-Oct-16-14:53:47 : Data transformation complete. Initiating Loading process
+2024-Oct-16-14:53:47 : Call load_to_csv()
+2024-Oct-16-14:53:47 : Data saved to CSV file
+2024-Oct-16-14:53:47 : Initiate SQLite3 connection
+2024-Oct-16-14:53:47 : SQL Connection initiated
+2024-Oct-16-14:53:47 : Call load_to_db()
+2024-Oct-16-14:53:47 : Data loaded to Database as a table, Executing queries
+2024-Oct-16-14:53:47 : Call run_query()
+2024-Oct-16-14:53:47 : Process Complete
+2024-Oct-16-14:53:47 : Close SQLite3 connection
+2024-Oct-16-14:53:47 : Server Connection closed
